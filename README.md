@@ -142,4 +142,4 @@ GitHub: https://github.com/Dj7517
 
 ## 📄 License
 
-This project is developed for educational and learning purposes.
+This project still it is in deveopment phase
